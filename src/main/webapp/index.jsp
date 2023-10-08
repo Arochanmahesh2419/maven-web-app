@@ -6,7 +6,7 @@
   
   <h2> Call Us : + 91 - 99 85 39 66 77 / 99 85 29 66 77</h2>
   
-  <h3> Ofc Location :  Ho no 3-33, near ramalayam Kasipadu,peddakurapadu,guntur palnadu 522436 </h3>
+  <h3> Ofc Location :  Ho no 3-33,chandu near ramalayam Kasipadu,peddakurapadu,guntur palnadu 522436 </h3>
   
   <h1> Learn Here.. Lead Anywhere..!! </h1>
 
